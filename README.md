@@ -1,5 +1,7 @@
 # MSK Armor - Multiple Armor Vests
 
+**!!! We do NOT provide support for this anymore !!!**
+
 ## Description
 * You can use the armor Item then you get nobproof Item and a Vest will be added to the Ped.
 * With the nobproof Item then the Vest will be removed from Ped.
